@@ -1,6 +1,6 @@
 ---
 
-# 🩺 Medicine Prediction and Recommendations System
+# 🩺 Medicine Prediction & Recommendations System
 
 ### Overview
 A machine learning-powered system that predicts diseases based on user-reported symptoms and provides comprehensive recommendations including precautions, diets, medications, and workout plans.
